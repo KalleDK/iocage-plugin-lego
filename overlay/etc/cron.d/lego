@@ -1,0 +1,4 @@
+SHELL=/bin/sh
+PATH:/etc:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
+
+@daily lego touch /home/lego/km > /dev/null 2>&1
